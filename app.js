@@ -22,7 +22,7 @@ console.log(js.includes('Script')); // Output: true
 */
 const num = Math.floor(Math.random()* 6) + 1; // Generates a random number between 1 and 6
 console.log(num);
-console.log(num.toFixed(2)); // Output: A string representation of the number with 2 decimal places
+console.log(Math.min(10, 5, 8)); // Output: 5
 console.log(Math.sqrt(num)); // Output: The square root of the number
 
 // Question 3
